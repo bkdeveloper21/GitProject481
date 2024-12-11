@@ -1,0 +1,18 @@
+﻿ <-1> 11/12/2024 13:17:46.078     [Info   ] - Starts Loading Component : D:\MagicXPA\XPA481\Add_On\UserFunctionality\UserFunctionality.ecf 
+ <-1> 11/12/2024 13:17:46.090     [Info   ] - Starts Loading Component : System.Windows.Forms 
+ <-1> 11/12/2024 13:17:46.157     [Info   ] - Ends Loading Component : System.Windows.Forms 
+ <-1> 11/12/2024 13:17:46.158     [Info   ] - Starts Loading Component : System.Drawing 
+ <-1> 11/12/2024 13:17:46.191     [Info   ] - Ends Loading Component : System.Drawing 
+ <-1> 11/12/2024 13:17:46.203     [Info   ] - Starts Loading Component : System 
+ <-1> 11/12/2024 13:17:46.243     [Info   ] - Ends Loading Component : System 
+ <-1> 11/12/2024 13:17:46.244     [Info   ] - Starts Loading Component : System.Data 
+ <-1> 11/12/2024 13:17:46.333     [Info   ] - Ends Loading Component : System.Data 
+ <-1> 11/12/2024 13:17:46.333     [Info   ] - Starts Loading Component : Microsoft.Office.Interop.Excel 
+ <-1> 11/12/2024 13:17:46.491     [Info   ] - Ends Loading Component : Microsoft.Office.Interop.Excel 
+ <-1> 11/12/2024 13:17:46.492     [Info   ] - Starts Loading Component : Microsoft.CSharp 
+ <-1> 11/12/2024 13:17:46.536     [Info   ] - Ends Loading Component : Microsoft.CSharp 
+ <-1> 11/12/2024 13:17:46.542     [Info   ] - Starts Loading Component : System.Core 
+ <-1> 11/12/2024 13:17:46.583     [Info   ] - Ends Loading Component : System.Core 
+ <-1> 11/12/2024 13:17:46.617     [Info   ] - Ends Loading Component : D:\MagicXPA\XPA481\Add_On\UserFunctionality\UserFunctionality.ecf 
+ <-1> 11/12/2024 13:17:46.634     [Info   ] -   License file: "D:\MagicXPA\XPA481\License.dat", License feature: 'MGCSTK'.
+ <-1> 11/12/2024 13:17:46.663     [Info   ] -   The project was successfully opened.
